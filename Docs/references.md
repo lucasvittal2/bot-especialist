@@ -1,0 +1,2 @@
+# References
+- [ Article on medium 'AI Agents: The Intersection of Tool Calling and Reasoning in Generative AI'](https://medium.com/@sudhiryelikar/understanding-similarity-or-semantic-search-and-vector-databases-5f9a5ba98acb)
